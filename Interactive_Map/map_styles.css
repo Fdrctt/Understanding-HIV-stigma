@@ -1,0 +1,161 @@
+body {
+    font-family: 'Lora', serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+.content {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+h1 {
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+p {
+    font-size: 1.2em;
+    line-height: 1.6;
+}
+
+audio {
+    margin-top: 20px;
+    width: 100%;
+}
+
+a {
+    display: inline-block;
+    margin-top: 0px;
+    text-decoration: none; 
+    color: #c6626c;
+    transition: color 0.2s;
+}
+
+a:hover {
+    color: #c58c92;
+}
+
+.support-image {
+    max-width: 100%;
+    height: auto;
+    margin-top: 20px;
+    display: block;
+}
+
+.centered-wrapper {
+    width: 800px;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 100px;
+}
+
+#map-container {
+    position: relative;
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    height: 600px;
+}
+
+#visualmap {
+    width: 100%;
+    height: 100%;
+    display: block;
+}
+
+#interactive-map {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.hover-effect-svg:hover {
+    filter: brightness(1.2);
+    stroke: none;
+    outline: none;
+}
+
+.popup {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: white;
+    border: 1px solid black;
+    padding: 20px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+    z-index: 10;
+    width: 60%;
+    max-width: 400px;
+    text-align: center; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.hidden {
+    display: none;
+}
+
+#close-popup {
+    margin-top: 10px;
+    background-color: #c58c92;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-family: 'Lora', serif;
+    transition: background-color 0.3s ease-in-out, transform 0.3s ease-in-out;
+}
+
+#close-popup:hover {
+    background-color: #c58c92;
+    transform: scale(1.05);
+}
+
+.audio-button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2px 4px; 
+    margin-top: 3px; 
+    background-color: #f4e6e6;
+    color: #c58c92;
+    border: none;
+    border-radius: 0px;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out, transform 0.3s ease-in-out;
+    font-size: 0.9em; 
+
+
+.audio-button:hover {
+    background-color: #e4c1c0;
+    transform: scale(1.05);
+}
+
+.audio-icon {
+    width: 16px; 
+    height: 16px; 
+    margin-right: 5px; 
+    
+}
+
+audio {
+    width: 80%; 
+    margin: 0 auto;
+    display: block;
+    
+
+}
+
+}

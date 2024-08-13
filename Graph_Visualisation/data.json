@@ -1,0 +1,417 @@
+{
+  "questions": [
+    {
+      "content": "What’s stigma for you and how does it affect your life?",
+      "themes": ["personal impact of stigma"],
+      "tags": ["lived experience", "stigma"]
+    },
+    {
+      "content": "Facts and myths around HIV, how can education be improved?",
+      "themes": ["educational needs"],
+      "tags": ["education", "misinformation"]
+    },
+    {
+      "content": "Which type of support is missing that you'd like to see out there?",
+      "themes": ["support needs"],
+      "tags": ["support", "services"]
+    }
+  ],
+  "messages": [
+    {
+      "content": "HIV doesn't kill. What kills, most, is the stigma.",
+      "tags": ["HIV stigma", "stigma-reduction", "awareness", "education"]
+    },
+    {
+      "content": "Talking helps, but, uh, what kills is silence.",
+      "tags": ["HIV stigma", "stigma-reduction", "awareness", "education"]
+    },
+    {
+      "content": "HIV is a long term condition, stigma is a killer.",
+      "tags": ["HIV stigma", "stigma-reduction", "awareness", "education"]
+    },
+    {
+      "content": "It is better to test than being sorry.",
+      "tags": ["HIV stigma", "stigma-reduction", "awareness", "education", "testing"]
+    },
+    {
+    "content": "Double life is a killer",
+    "tags": ["HIV stigma", "stigma-reduction", "awareness", "education", "testing"]
+    }
+  ],
+
+  "quotes": [
+    {
+      "id": "1",
+      "content": "Well, what’s stigma, um…stigma for me is something like not to be able to talk about my HIV….about what I have, how I feel, something that I can't share, or say…heavy weights. I feel like I'm not free to talk about it. That's a stigma for me.",
+      "themes": ["Concealment", "Emotional Isolation"],
+      "tags": ["self-stigma", "expression restrain", "concealment"]
+    },
+    {
+      "id": "2",
+      "content": "I felt that the government is not doing enough, like, uh, especially on radio. I think it needs more advertising and more talk about HIV because it's something that you don't see all the time, like a daily adverts. We need for people to have the correct information about it. I think that this would help reduce HIV stigma.",
+      "themes": ["Need for Awareness", "Government Inaction"],
+      "tags": ["public-stigma", "awareness"]
+    },
+    {
+      "id": "3",
+      "content": "In my community, or in charity organisations, there should be more testing of HIV. I would like for people living with HIV to be more, ah, welcome in different places, not only just here but everywhere, in churches, uh, hospitals, other communities.",
+      "themes": ["Community Inclusion", "Testing Accessibility"],
+      "tags": ["support", "community"]
+    },
+    {
+      "id": "4",
+      "content": "We are hiding. We need to come out like everyone. Like we want HIV to be something that is, uh, talked about like cancer, not being ashamed, not uh, look like it's a deadly disease. It's not. It has changed now. It's not like those old days. And people maybe stop using this word AIDS instead of HIV, because it scares people. People think that we are going to die and we are not.",
+      "themes": ["Normalisation", "Terminology Impact"],
+      "tags": ["awareness", "public-stigma"]
+    },
+    {
+      "id": "5",
+      "content": "First of all, this virus didn't kill us. Stigma is a killer, it’s a burden. I don't share my status within my own community, in my church, I pretend double life. I need to lie to people because it's not happened to them, they don't read, they don't know. We hide. Double life is no good. You are not yourself. I didn't tell my family. I hide my tablets, wherever I go, I don't tell.",
+      "themes": ["The Burden of Secrecy", "Internal Conflict"],
+      "tags": ["self-stigma", "isolation"]
+    },
+    {
+      "id": "6",
+      "content": "When we come here, we are. We feel great. So now when I, uh, reach out to the community, with Red Ribbon, I'm trying to do it now, to tell people… it's great when I tell people, well, um, that's good. I tell sometimes five people in one day. We have to go out and speak out. I think it's our responsibility.",
+      "themes": ["Community Engagement", "Empowerment"],
+      "tags": ["advocacy", "community-support"]
+    },
+    {
+      "id": "7",
+      "content": "Knowledge is power, the importance of being in a supportive group. You feel empowered. The way you are denied, the way you are living double life. But you have managed now to go out as a champion, engaging with people, talking about HIV. You just say that. Oh, I am living with HIV. It feels great.",
+      "themes": ["Power of Knowledge", "Supportive Networks"],
+      "tags": ["empowerment", "support-groups"]
+    },
+    {
+      "id": "8",
+      "content": "Because I'm, um, hiding it. There is something that I don't know. Feel good. Energetic. Yeah. Why not? I'm going to do it more, you know. Not yet out. Slowly. Slowly.",
+      "themes": ["Gradual Disclosure", "Personal Journey"],
+      "tags": ["self-discovery", "resilience"]
+    },
+    {
+      "id": "9",
+      "content": "That's a problem. They don't eat with you, they don't drink with you. They don't socialise with you. They lack knowledge.",
+      "themes": ["Social Isolation", "Misinformation"],
+      "tags": ["mistrust", "social-exclusion"]
+    },
+    {
+      "id": "10",
+      "content": "That’s good…being here, it's empowering. This is the first step. I’m learning how to open up. I’m learning how to deal with it. Because when you open up, you live with it. When you tell people, you see the reaction. When the reaction is positive, you continue. You continue. And that is what we want.",
+      "themes": ["Opening Up", "Positive Feedback Loop"],
+      "tags": ["empowerment", "community-feedback"]
+    },
+    {
+      "id": "11",
+      "content": "As my friend, she said, I'm a victim of stigma. So in my community, we are from the same country. So, uh, they know about me. So they don't want nothing to do with me waiting. And now I do not exist, but when I come here, I feel good. I feel, um, again, uh, to speak with someone, like when we go outright, I was very shy for coming out I think red ribbon just a little bit opened the curtain. And, uh, for me. So when I go out, sometimes, uh, when people don't understand, I said, I'm, um, HIV. So I came out a little bit. Still, it affects my family, myself. Again, self stigma, because I don't know? Who knows? Because it spread quickly. So self stigma, I don't want to go talk about, uh, them. I don't want to go church, I don't want to go neighbours. I don't want….self stigma.",
+      "themes": ["Community Alienation", "The Power of Disclosure"],
+      "tags": ["self-stigma", "community-reaction", "identity"]
+    },
+    {
+      "id": "12",
+      "content": "That what support groups is. It gives education, share more information to impact one another, and, um, make a difference. When you hear the news from other people, it gives you more knowledge. That’s why supporting group is for. Here you can see everybody will share the same food, and we share the same pot. It’s the love, it’s our community, when the love is there, people can live in education, share our experience here. It makes a difference to me.",
+      "themes": ["Support Group Benefits", "Shared Experiences"],
+      "tags": ["support-groups", "community-support", "education"]
+    },
+    {
+      "id": "13",
+      "content": "Stigma, we need to educate more people about HIV. Um, see, it happened to me, my own stigma..my family, my children, my children's wife, my grandchildren, they would put my plate, my cup, my spoon aside. I was asking them, why? Is it because grandma has HIV, don't go near, uh, mommy told you she's going to die. First year, second year, and I'll go back to them. Will you be running away from me, for ages? Why? Am I a bad mother? They said, no…it’s the HIV. The HIV?…Go and google it. Uh, when you google it, you will see, find more information about it, learn about it. See how, uh, they started coming one by one. They came near me, and it was a big, um, um, problem for me, a big stigma. Because they didn’t know, that’s the problem, they were ignorant and scared. Now, they say they have learned. It was my own family, like “tssshccc she has HIV”. But thank God, today I overcome everything. That’s how I gained my grandchildren back.",
+      "themes": ["Family Misunderstanding", "Overcoming Stigma"],
+      "tags": ["family", "awareness", "education"]
+    },
+    {
+      "id": "14",
+      "content": "It was this group, that gives me rest of mind. Give me power. When I start coming to group, look at me I’m 70, look at me I’m 20, I’m 40….it’s like oh look at me I can make it. My opinion for everybody, is to make more outreach. Educate out, you can educate some people about it…..go and google it. See whatever is there.",
+      "themes": ["Empowerment through Community", "Importance of Outreach"],
+      "tags": ["support-groups", "empowerment", "education"]
+    },
+    {
+      "id": "15",
+      "content": "When I was diagnosed I had to see someone, 20 years ago. That’s the key one for me. I’ve been hiding for many years, my daughter used to tell me “go to the group” ….one day I went to my clinic and I have seen the people sitting in circle I said oh my god me always hiding taking my medications and I felt great, it was life changing… now many people are sitting in groups like me, coming out. The group is of course a place for ourselves.",
+      "themes": ["Personal Revelation", "Group Support"],
+      "tags": ["support-groups", "life-changing", "disclosure"]
+    },
+    {
+      "id": "16",
+      "content": "Before I came to this group, people from my church believed that everyone who believed in Christ can’t get sick like that…but I then started to talk about it, I didn’t want anyone to take a picture of me but when I came out and started talking about it, after all, what am I hiding? Even the people in my church, I started talking about it openly, whether they judge me or not…I don’t care, so that’s me. About 3-4 years ago I told them…Some of them were very judgmental, but I don’t mind, it’s up to them, whatever they think about me, I know who I am…",
+      "themes": ["Religious Community Stigma", "Personal Courage"],
+      "tags": ["church", "self-acceptance", "judgment"]
+    },
+    {
+      "id": "17",
+      "content": "It took times to accept it, it’s not easy, there are people who can overcome it straight away, tell the family, tell the community, tell friends, it’s also about the individual and their respect.",
+      "themes": ["Journey to Acceptance", "Individual Experiences"],
+      "tags": ["acceptance", "personal-journey", "disclosure"]
+    },
+    {
+      "id": "18",
+      "content": "Before, I was very shy, scared about HIV, I didn’t tell anybody. I have a friend who is an healthcare professional abroad, when a friend of us told us about his HIV, she started saying things about him like “he’s going to die, oh my god he has short life” I told her, please my friend, you’re a healthcare professional, you work at the hospital….she doesn’t have any knowledge about HIV, go and google it, read about it. It’s when I started to come here that I gained confidence.",
+      "themes": ["Confronting Misinformation", "Gaining Confidence"],
+      "tags": ["misinformation", "healthcare-professionals", "support-groups"]
+    },
+    {
+      "id": "19",
+      "content": "If you live with HIV and something happens your doctor will try to find out if it’s because of HIV or not, sometimes we might have a better care. Some people don’t care about going to the hospital or doing health checks. If you have HIV your health is being checked constantly, if there is anything wrong, it can be identified quickly.",
+      "themes": ["Healthcare Vigilance", "Proactive Care"],
+      "tags": ["healthcare", "self-care", "diagnosis"]
+    },
+    {
+      "id": "20",
+      "content": "I think for me, a long time ago, self stigma was very bad and then I came to realise 'why should I stigmatise myself?' So I decided I should tell people...first I told my family, they were ok, then I told my children, and they were ok...and I became stronger. I met with Husseina, I wanted to do something for the community. We said we should start something for the community...We started this group, in my house...to help the people coming out after us. Because we know what it means, if we don’t do something nobody will do anything. We were many who started meeting in my house. And this group has been growing and I’m overexcited.",
+      "themes": ["Overcoming Self-Stigma", "Community Building"],
+      "tags": ["family", "empowerment", "support-groups"]
+    },
+    {
+      "id": "21",
+      "content": "Together, we are able to go out and talk to the community, we talk to people, we ask people to fill the questionnaire, sometime people don’t know anything. Most people don’t know about HIV, they confuse it with AIDS, there is still a lot of work to do, when we are out in the community, we go to the library...we need places to go on the community. It’s sad when you go out there, and see people don’t know, you think oh what’s that. Most of them they don’t know, most people don’t understand the difference between HIV and AIDS...You need to come and see, we keep correcting them.",
+      "themes": ["Public Engagement", "Educational Outreach"],
+      "tags": ["community-awareness", "HIV-vs-AIDS", "public-education"]
+    },
+    {
+      "id": "22",
+      "content": "I’m a community champion...not long ago I met someone, and I felt frozen to tell them about my situation as they were keep saying 'when you have HIV etc...they can pass it even if you sit on a toilet...' I hesitated but I told him about me and he came down a bit and listened to me...and finally said 'you taught me something...' And he said he’s a social worker! I thought he was lying then one of the nurses came from upstairs, and they knew him...! Sometimes I think, how can you not know...but I mean And don’t blame him, sometimes when I go to events, and speak to healthcare professionals...sometimes they don’t know. This is hard but give me the motivation to do more, to be out there, to educate.",
+      "themes": ["Challenging Misconceptions", "Personal Advocacy"],
+      "tags": ["misinformation", "community-education", "personal-story"]
+    },
+    {
+      "id": "23",
+      "content": "Back to my community, there was this lady relative of mine she was about to die, she was in denial, I opened up with her, and showed my medications...right now, now she put on weight, she’s back to work, her kids are finishing university. She would have died if she would have not said she has HIV.",
+      "themes": ["Denial to Acceptance", "Impact of Support"],
+      "tags": ["support", "acceptance", "health-improvement"]
+    },
+    {
+      "id": "24",
+      "content": "Now I go to the hospital or to my physio and I don’t care, I can say I’m positive, I don’t care what they think. Some people even when I had my children, they were like 'oh you have HIV, you are sick.. how can you have children...?' I say, go and google those things, I can explain to you more but please you have to go and find the right information for yourself, so people still don’t have a clue of what it’s going on...",
+      "themes": ["Disclosure", "Confronting Ignorance"],
+      "tags": ["self-confidence", "public-perception", "education"]
+    },
+    {
+      "id": "25",
+      "content": "This idea of AIDS put in the media, it has to be removed…that’s what people think. With AIDS, the immune system is weak, and red blood cells are not able to fight illnesses anymore. With HIV…We are positive, there is no cure, but if you are on medication, we can live longer with it.",
+      "themes": ["Media Representation", "Living with HIV"],
+      "tags": ["AIDS misconceptions", "HIV education"]
+    },
+    {
+      "id": "26",
+      "content": "Like what they are doing with cancer, or diabetes…they give lots of support. Why not us? Is it because it has something to do with sex?",
+      "themes": ["Lack of support", "Stigma Origins"],
+      "tags": ["healthcare inequality", "discrimination"]
+    },
+    {
+      "id": "27",
+      "content": "It’s for me when it happened, my close family, my mum, my kids, and my extended family, they still don’t know up to now….because I can see how HIV people are treated. We still need to give more education….the way we are treated in hospital, sometimes we are put in isolated rooms and corners. You can ring and ring, they don’t come to your room…..I wish the government could say 'every healthcare professional should know' we still have a long way to go, with people working in healthcare….sometimes they don’t come and assist you, they don’t want to touch your body, stay close, they are scared.",
+      "themes": ["Family Secrecy", "Healthcare Stigma"],
+      "tags": ["disclosure", "professional education"]
+    },
+    {
+      "id": "28",
+      "content": "The self-stigma and the public stigma. Self-stigma, it is for myself, it is my responsibilities, to fight and to eradicate. Self-stigma. How should I do it? It begins at home, I have to share it at home, with my family, my children, my friends. This is what I did. I was diagnosed in 1995, January when I was still back home. I’m from Tanzania. That time my daughter was 5 years old, I had to tell her, that I was HIV positive. I took the responsibility myself to learn what’s HIV, and what’s AIDS and then I learnt to distinguish and I started to go to supporting group back home. HIV didn’t stop me to keep working, to go to further education, no. Because I got a good counselling, that counselling they built a good foundation for me.",
+      "themes": ["Tackling Self-Stigma", "Family Communication"],
+      "tags": ["self-awareness", "education", "support-groups"]
+    },
+    {
+      "id": "29",
+      "content": "I have two kids, they all know about my HIV, my brothers, my sisters back home know, and every people I was working with….the doctor…they all know about my HIV and they are my friends, I go to their house, they cook, we eat together. I don’t feel any discrimination from my family they are friends…I don’t feel any problem.",
+      "themes": ["Openness and Acceptance", "Family and Friends Support"],
+      "tags": ["disclosure", "family support", "social inclusion"]
+    },
+    {
+      "id": "30",
+      "content": "For almost 29 years I lived with the virus….now in this country, I experienced discrimination but …from a person of my own country, discriminated me at work, going around telling people that I’m HIV positive…so but… I’m lucky, I can say I’m lucky..the other staff said we’ll stand up with you so..I had to tell the manager. That time she didn’t know I’m HIV, then she asked me 'are you HIV' I said 'yes'..she said we’ll call for a meeting that colleague, she didn’t turn up for the meeting, 24 hours…she resigned, she didn’t turn up to work anymore…and it was me who found her job for her. It was her second job and I gave her a reference…",
+      "themes": ["Workplace Discrimination", "Solidarity and Support"],
+      "tags": ["workplace", "discrimination", "allyship"]
+    },
+    {
+      "id": "31",
+      "content": "I got good support from my manager and her assistant, 'if we give you lots of shifts, she said, and if you need hospital appointments, let us know we can support you if you need to take time for that, we can find someone covering your shifts.'",
+      "themes": ["Workplace Support", "Managing Health and Work"],
+      "tags": ["workplace support", "healthcare appointments"]
+    },
+    {
+      "id": "32",
+      "content": "So, until now I’m still learning about HIV, yeah and the stigma and the discrimination. And I always say nobody can stand and talk on my behalf, or fight stigma and discrimination on my behalf. Neither if it’s my family, my kids, or anybody…I need to stand up myself, and say this is wrong, it’s my duty to educate them, to give them knowledge, to give them awareness, information about HIV and AIDS, so they can distinguish, what is HIV, what is AIDS.",
+      "themes": ["Self-Advocacy", "Continuous Learning"],
+      "tags": ["self-empowerment", "education", "advocacy"]
+    },
+    {
+      "id": "33",
+      "content": "We need to talk to people. Because if we keep quiet, who is going to eradicate this public stigma…They don’t have awareness, who is going to provide awareness? They don’t have any information. We are ambassadors, advocates, mentors, in different areas. Don’t disclose you live with HIV before educating that person, because you’ll experience difficulties. You have to start slowly, talk to the person, see their faces if you start talking about HIV, what’s their responses, you’ll see from the questions they start asking you. Talk to them, educate them, give awareness, so in the future when you will tell them 'I’m HIV positive' they will understand when you tell them.",
+      "themes": ["Public Education", "Strategic Disclosure"],
+      "tags": ["public-awareness", "mentorship", "disclosure strategy"]
+    },
+    {
+      "id": "34",
+      "content": "People say 'I have cancer, I have diabetes' they can talk about it. But HIV, you can talk…why? Why I can’t tell my daughter that I’m HIV positive? My daughter is also an ambassador, because she learnt a lot from me. She’s raising awareness, to people who are scared of HIV 'Oh I’m worried I’d get HIV like this' and she’s like 'no, I learnt from my mum since I’m 5…HIV doesn’t spread like that and I learnt a lot from her'",
+      "themes": ["Family as Educators", "Breaking the Silence"],
+      "tags": ["family education", "HIV awareness"]
+    },
+    {
+      "id": "35",
+      "content": "I’ve been working for this company for 5 years, it’s a care company…I’m not sick, I’ve always been working actively. About two weeks ago, I needed sick leave, my leg was in pain, I couldn’t walk. For two weeks. To do certain jobs, like pushing a wheelchair, I couldn’t do certain jobs but I’m fit to walk now. What I’m facing now, I’m supposed to be paid for sick leave, always worked full time for 5 years, I wrote to the union, I wrote to the HR…..and it’s written, that I’m HIV and now they don’t want to pay me for the time I spent at home.",
+      "themes": ["Workplace Rights", "Challenges with Illness"],
+      "tags": ["employment rights", "health challenges", "advocacy"]
+    },
+    {
+      "id": "36",
+      "content": "I love being in support group. Lots of experience is shared. Lots of information. I’m giving back to the community, in my own community they know I live with HIV. I live actively with HIV. You need to speak up, speak loud.",
+      "themes": ["Community Contribution", "Active Living"],
+      "tags": ["support-group", "community-awareness", "vocal-advocacy"]
+    },
+    {
+      "id": "37",
+      "content": "We need to eradicate the idea that HIV is only affecting black African communities in this country. There are people from other ethnicities that not even come out because it’s a taboo. That’s not right. And even in the African communities, there are lots of different communities. People are living with it without saying, they don’t say, because of religion or faith…When we say black African, within those groups, we know there are communities are hidden, there are groups that don’t come out, they might have access support within their own communities, but maybe not come out within the bigger group.",
+      "themes": ["Ethnicity and HIV Stigma", "Silence and Taboo"],
+      "tags": ["stigma", "ethnicity", "taboo", "community-silence"]
+    },
+    {
+      "id": "38",
+      "content": "Still lot of people, they don’t want to share their privacy. It’s their choice. They have a job, they don’t want to talk about it. They might or might not have a support group, because of culture, or faith, or language or other reasons. They don’t want to talk about it, they don’t want to face stigma.",
+      "themes": ["Privacy and Stigma", "Cultural Silence"],
+      "tags": ["privacy", "cultural-influences", "stigma-avoidance"]
+    },
+    {
+      "id": "39",
+      "content": "We need to educate everyone, there’s a lack of integration, how to we reach out to these people?",
+      "themes": ["Need for Integration", "Educational Outreach"],
+      "tags": ["education", "integration", "outreach"]
+    },
+    {
+      "id": "40",
+      "content": "Some people think it’s a curse, it’s a sin, because of religion. My church, my community, my family, my son’s school. They stigmatised him too. I felt attacked. I only feel better when I come here.",
+      "themes": ["Religious Stigma", "Family Impact"],
+      "tags": ["religion", "stigma", "community-impact"]
+    },
+    {
+      "id": "41",
+      "content": "Don’t assume all healthcare professionals know about HIV, that they have a full awareness about HIV. Unless they are specialised, or worked specifically with people living with HIV. They might not be aware and have the right knowledge, they might not be yet educated….I know HIV, the virus is within me, the virus is my friend, so don’t tell everybody.",
+      "themes": ["Healthcare Knowledge Gaps", "Personal Acceptance"],
+      "tags": ["healthcare-professionals", "HIV knowledge", "self-acceptance"]
+    },
+    {
+      "id": "42",
+      "content": "I come from Germany, it was different there, I met people with HIV there hiding their life and being without a support group. I’m grateful for being here, and having found this support group. I’m very happy here.",
+      "themes": ["Cultural Differences", "Value of Support Groups"],
+      "tags": ["support-groups", "cultural-comparison", "gratitude"]
+    },
+    {
+      "id": "43",
+      "content": "So I used to work in a hospice, where HIV people were put at the back, HIV people are the people who are served last. When I used to work there, I was telling my colleagues, you need knowledge. For some of them if you have HIV you just have to die.",
+      "themes": ["Workplace Prejudice", "Advocacy for Knowledge"],
+      "tags": ["hospice", "HIV prejudice", "educational-advocacy"]
+    },
+    {
+      "id": "44",
+      "content": "I stigmatise myself, in many cases, but I don’t think you have to tell always, you need to know why you are disclosing. It’s like you need to be empowered in order to disclose.",
+      "themes": ["Self-Stigmatization", "Thoughtful Disclosure"],
+      "tags": ["self-stigma", "disclosure-decision", "empowerment"]
+    },
+    {
+      "id": "45",
+      "content": "I don’t want to share it on social media, I don’t have yet that confidence. I told my family and maybe a couple of friends. I can talk about it, but don’t want people to talk about me. I’m open, but I don’t want just people spread it. I think of my kids, it’s a way to protect them. When you disclose you need to think of the people behind you.",
+      "themes": ["Selective Sharing", "Protective Privacy"],
+      "tags": ["privacy", "selective-disclosure", "family-protection"]
+    }
+  ],
+  "nodes": [
+    { "id": "stigma", "group": 0, "type": "main", "label": "Stigma" },
+    { "id": "self-stigma", "group": 1, "type": "theme", "label": "Self-Stigma" },
+    { "id": "public-stigma", "group": 2, "type": "theme", "label": "Public Stigma" },
+    { "id": "support", "group": 3, "type": "theme", "label": "Support" },
+    { "id": "education", "group": 4, "type": "theme", "label": "Education" },
+    { "id": "quote1", "group": 1, "type": "quote", "content": "Well, what’s stigma, um…stigma for me is something like not to be able to talk about my HIV….about what I have, how I feel, something that I can't share, or say…heavy weights. I feel like I'm not free to talk about it. That's a stigma for me." },
+    { "id": "quote2", "group": 2, "type": "quote", "content": "I felt that the government is not doing enough, like, uh, especially on radio. I think it needs more advertising and more talk about HIV because it's something that you don't see all the time, like a daily adverts. We need for people to have the correct information about it. I think that this would help reduce HIV stigma." },
+    { "id": "quote3", "group": 3, "type": "quote", "content": "In my community, or in charity organisations, there should be more testing of HIV. I would like for people living with HIV to be more, ah, welcome in different places, not only just here but everywhere, in churches, uh, hospitals, other communities." },
+    { "id": "quote4", "group": 2, "type": "quote", "content": "We are hiding. We need to come out like everyone. Like we want HIV to be something that is, uh, talked about like cancer, not being ashamed, not uh, look like it's a deadly disease. It's not. It has changed now. It's not like those old days. And people maybe stop using this word AIDS instead of HIV, because it scares people. People think that we are going to die and we are not." },
+    { "id": "quote5", "group": 1, "type": "quote", "content": "First of all, this virus didn't kill us. Stigma is a killer, it’s a burden. I don't share my status within my own community, in my church, I pretend double life. I need to lie to people because it's not happened to them, they don't read, they don't know. We hide. Double life is no good. You are not yourself. I didn't tell my family. I hide my tablets, wherever I go, I don't tell." },
+    { "id": "quote6", "group": 3, "type": "quote", "content": "When we come here, we are. We feel great. So now when I, uh, reach out to the community, with Red Ribbon, I'm trying to do it now, to tell people… it's great when I tell people, well, um, that's good. I tell sometimes five people in one day. We have to go out and speak out. I think it's our responsibility." },
+    { "id": "quote7", "group": 4, "type": "quote", "content": "Knowledge is power, the importance of being in a supportive group. You feel empowered. The way you are denied, the way you are living double life. But you have managed now to go out as a champion, engaging with people, talking about HIV. You just say that. Oh, I am living with HIV. It feels great." },
+    { "id": "quote8", "group": 1, "type": "quote", "content": "Because I'm, um, hiding it. There is something that I don't know. Feel good. Energetic. Yeah. Why not? I'm going to do it more, you know. Not yet out. Slowly. Slowly." },
+    { "id": "quote9", "group": 2, "type": "quote", "content": "That's a problem. They don't eat with you, they don't drink with you. They don't socialise with you. They lack knowledge." },
+    { "id": "quote10", "group": 3, "type": "quote", "content": "That’s good…being here, it's empowering. This is the first step. I’m learning how to open up. I’m learning how to deal with it. Because when you open up, you live with it. When you tell people, you see the reaction. When the reaction is positive, you continue. You continue. And that is what we want." },
+    { "id": "quote11", "group": 1, "type": "quote", "content": "As my friend, she said, I'm a victim of stigma. So in my community, we are from the same country. So, uh, they know about me. So they don't want nothing to do with me waiting. And now I do not exist, but when I come here, I feel good. I feel, um, again, uh, to speak with someone, like when we go outright, I was very shy for coming out I think red ribbon just a little bit opened the curtain. And, uh, for me. So when I go out, sometimes, uh, when people don't understand, I said, I'm, um, HIV. So I came out a little bit. Still, it affects my family, myself. Again, self stigma, because I don't know? Who knows? Because it spread quickly. So self stigma, I don't want to go talk about, uh, them. I don't want to go church, I don't want to go neighbours. I don't want….self stigma." },
+    { "id": "quote12", "group": 4, "type": "quote", "content": "That what support groups is. It gives education, share more information to impact one another, and, um, make a difference. When you hear the news from other people, it gives you more knowledge. That’s why supporting group is for. Here you can see everybody will share the same food, and we share the same pot. It’s the love, it’s our community, when the love is there, people can live in education, share our experience here. It makes a difference to me." },
+    { "id": "quote13", "group": 2, "type": "quote", "content": "Stigma, we need to educate more people about HIV. Um, see, it happened to me, my own stigma..my family, my children, my children's wife, my grandchildren, they would put my plate, my cup, my spoon aside. I was asking them, why? Is it because grandma has HIV, don't go near, uh, mommy told you she's going to die. First year, second year, and I'll go back to them. Will you be running away from me, for ages? Why? Am I a bad mother? They said, no…it’s the HIV. The HIV?…Go and google it. Uh, when you google it, you will see, find more information about it, learn about it. See how, uh, they started coming one by one. They came near me, and it was a big, um, um, problem for me, a big stigma. Because they didn’t know, that’s the problem, they were ignorant and scared. Now, they say they have learned. It was my own family, like “tssshccc she has HIV”. But thank God, today I overcome everything. That’s how I gained my grandchildren back." },
+    { "id": "quote14", "group": 3, "type": "quote", "content": "It was this group, that gives me rest of mind. Give me power. When I start coming to group, look at me I’m 70, look at me I’m 20, I’m 40….it’s like oh look at me I can make it. My opinion for everybody, is to make more outreach. Educate out, you can educate some people about it…..go and google it. See whatever is there." },
+    { "id": "quote15", "group": 3, "type": "quote", "content": "When I was diagnosed I had to see someone, 20 years ago. That’s the key one for me. I’ve been hiding for many years, my daughter used to tell me “go to the group” ….one day I went to my clinic and I have seen the people sitting in circle I said oh my god me always hiding taking my medications and I felt great, it was life changing… now many people are sitting in groups like me, coming out. The group is of course a place for ourselves." },
+    { "id": "quote16", "group": 2, "type": "quote", "content": "Before I came to this group, people from my church believed that everyone who believed in Christ can’t get sick like that…but I then started to talk about it, I didn’t want anyone to take a picture of me but when I came out and started talking about it, after all, what am I hiding? Even the people in my church, I started talking about it openly, whether they judge me or not…I don’t care, so that’s me. About 3-4 years ago I told them…Some of them were very judgmental, but I don’t mind, it’s up to them, whatever they think about me, I know who I am…" },
+    { "id": "quote17", "group": 1, "type": "quote", "content": "It took times to accept it, it’s not easy, there are people who can overcome it straight away, tell the family, tell the community, tell friends, it’s also about the individual and their respect." },
+    { "id": "quote18", "group": 2, "type": "quote", "content": "Before, I was very shy, scared about HIV, I didn’t tell anybody. I have a friend who is an healthcare professional abroad, when a friend of us told us about his HIV, she started saying things about him like “he’s going to die, oh my god he has short life” I told her, please my friend, you’re a healthcare professional, you work at the hospital….she doesn’t have any knowledge about HIV, go and google it, read about it. It’s when I started to come here that I gained confidence." },
+    { "id": "quote19", "group": 3, "type": "quote", "content": "If you live with HIV and something happens your doctor will try to find out if it’s because of HIV or not, sometimes we might have a better care. Some people don’t care about going to the hospital or doing health checks. If you have HIV your health is being checked constantly, if there is anything wrong, it can be identified quickly." },
+    { "id": "quote20", "group": 1, "type": "quote", "content": "I think for me, a long time ago, self stigma was very bad and then I came to realise 'why should I stigmatise myself?' So I decided I should tell people...first I told my family, they were ok, then I told my children, and they were ok...and I became stronger. I met with Husseina, I wanted to do something for the community. We said we should start something for the community...We started this group, in my house...to help the people coming out after us. Because we know what it means, if we don’t do something nobody will do anything. We were many who started meeting in my house. And this group has been growing and I’m overexcited." },
+    { "id": "quote21", "group": 3, "type": "quote", "content": "Together, we are able to go out and talk to the community, we talk to people, we ask people to fill the questionnaire, sometime people don’t know anything. Most people don’t know about HIV, they confuse it with AIDS, there is still a lot of work to do, when we are out in the community, we go to the library...we need places to go on the community. It’s sad when you go out there, and see people don’t know, you think oh what’s that. Most of them they don’t know, most people don’t understand the difference between HIV and AIDS...You need to come and see, we keep correcting them." },
+    { "id": "quote22", "group": 2, "type": "quote", "content": "I’m a community champion...not long ago I met someone, and I felt frozen to tell them about my situation as they were keep saying 'when you have HIV etc...they can pass it even if you sit on a toilet...' I hesitated but I told him about me and he came down a bit and listened to me...and finally said 'you taught me something...' And he said he’s a social worker! I thought he was lying then one of the nurses came from upstairs, and they knew him...! Sometimes I think, how can you not know...but I mean And don’t blame him, sometimes when I go to events, and speak to healthcare professionals...sometimes they don’t know. This is hard but give me the motivation to do more, to be out there, to educate." },
+    { "id": "quote23", "group": 3, "type": "quote", "content": "Back to my community, there was this lady relative of mine she was about to die, she was in denial, I opened up with her, and showed my medications...right now, now she put on weight, she’s back to work, her kids are finishing university. She would have died if she would have not said she has HIV." },
+    { "id": "quote24", "group": 2, "type": "quote", "content": "Now I go to the hospital or to my physio and I don’t care, I can say I’m positive, I don’t care what they think. Some people even when I had my children, they were like 'oh you have HIV, you are sick.. how can you have children...?' I say, go and google those things, I can explain to you more but please you have to go and find the right information for yourself, so people still don’t have a clue of what it’s going on..." },
+    { "id": "quote25", "group": 4, "type": "quote", "content": "This idea of AIDS put in the media, it has to be removed…that’s what people think. With AIDS, the immune system is weak, and red blood cells are not able to fight illnesses anymore. With HIV…We are positive, there is no cure, but if you are on medication, we can live longer with it." },
+    { "id": "quote26", "group": 2, "type": "quote", "content": "Like what they are doing with cancer, or diabetes…they give lots of support. Why not us? Is it because it has something to do with sex?" },
+    { "id": "quote27", "group": 3, "type": "quote", "content": "It’s for me when it happened, my close family, my mum, my kids, and my extended family, they still don’t know up to now….because I can see how HIV people are treated. We still need to give more education….the way we are treated in hospital, sometimes we are put in isolated rooms and corners. You can ring and ring, they don’t come to your room…..I wish the government could say 'every healthcare professional should know' we still have a long way to go, with people working in healthcare….sometimes they don’t come and assist you, they don’t want to touch your body, stay close, they are scared." },
+    { "id": "quote28", "group": 1, "type": "quote", "content": "The self-stigma and the public stigma. Self-stigma, it is for myself, it is my responsibilities, to fight and to eradicate. Self-stigma. How should I do it? It begins at home, I have to share it at home, with my family, my children, my friends. This is what I did. I was diagnosed in 1995, January when I was still back home. I’m from Tanzania. That time my daughter was 5 years old, I had to tell her, that I was HIV positive. I took the responsibility myself to learn what’s HIV, and what’s AIDS and then I learnt to distinguish and I started to go to supporting group back home. HIV didn’t stop me to keep working, to go to further education, no. Because I got a good counselling, that counselling they built a good foundation for me." },
+    { "id": "quote29", "group": 3, "type": "quote", "content": "I have two kids, they all know about my HIV, my brothers, my sisters back home know, and every people I was working with….the doctor…they all know about my HIV and they are my friends, I go to their house, they cook, we eat together. I don’t feel any discrimination from my family they are friends…I don’t feel any problem." },
+    { "id": "quote30", "group": 2, "type": "quote", "content": "For almost 29 years I lived with the virus….now in this country, I experienced discrimination but …from a person of my own country, discriminated me at work, going around telling people that I’m HIV positive…so but… I’m lucky, I can say I’m lucky..the other staff said we’ll stand up with you so..I had to tell the manager. That time she didn’t know I’m HIV, then she asked me 'are you HIV' I said 'yes'..she said we’ll call for a meeting that colleague, she didn’t turn up for the meeting, 24 hours…she resigned, she didn’t turn up to work anymore…and it was me who found her job for her. It was her second job and I gave her a reference…" },
+    { "id": "quote31", "group": 3, "type": "quote", "content": "I got good support from my manager and her assistant, 'if we give you lots of shifts, she said, and if you need hospital appointments, let us know we can support you if you need to take time for that, we can find someone covering your shifts.'" },
+    { "id": "quote32", "group": 1, "type": "quote", "content": "So, until now I’m still learning about HIV, yeah and the stigma and the discrimination. And I always say nobody can stand and talk on my behalf, or fight stigma and discrimination on my behalf. Neither if it’s my family, my kids, or anybody…I need to stand up myself, and say this is wrong, it’s my duty to educate them, to give them knowledge, to give them awareness, information about HIV and AIDS, so they can distinguish, what is HIV, what is AIDS." },
+    { "id": "quote33", "group": 2, "type": "quote", "content": "We need to talk to people. Because if we keep quiet, who is going to eradicate this public stigma…They don’t have awareness, who is going to provide awareness? They don’t have any information. We are ambassadors, advocates, mentors, in different areas. Don’t disclose you live with HIV before educating that person, because you’ll experience difficulties. You have to start slowly, talk to the person, see their faces if you start talking about HIV, what’s their responses, you’ll see from the questions they start asking you. Talk to them, educate them, give awareness, so in the future when you will tell them 'I’m HIV positive' they will understand when you tell them." },
+    { "id": "quote34", "group": 3, "type": "quote", "content": "People say 'I have cancer, I have diabetes' they can talk about it. But HIV, you can talk…why? Why I can’t tell my daughter that I’m HIV positive? My daughter is also an ambassador, because she learnt a lot from me. She’s raising awareness, to people who are scared of HIV 'Oh I’m worried I’d get HIV like this' and she’s like 'no, I learnt from my mum since I’m 5…HIV doesn’t spread like that and I learnt a lot from her'" },
+    { "id": "quote35", "group": 2, "type": "quote", "content": "I’ve been working for this company for 5 years, it’s a care company…I’m not sick, I’ve always been working actively. About two weeks ago, I needed sick leave, my leg was in pain, I couldn’t walk. For two weeks. To do certain jobs, like pushing a wheelchair, I couldn’t do certain jobs but I’m fit to walk now. What I’m facing now, I’m supposed to be paid for sick leave, always worked full time for 5 years, I wrote to the union, I wrote to the HR…..and it’s written, that I’m HIV and now they don’t want to pay me for the time I spent at home." },
+    { "id": "quote36", "group": 3, "type": "quote", "content": "I love being in support group. Lots of experience is shared. Lots of information. I’m giving back to the community, in my own community they know I live with HIV. I live actively with HIV. You need to speak up, speak loud." },
+    { "id": "quote37", "group": 4, "type": "quote", "content": "We need to eradicate the idea that HIV is only affecting black African communities in this country. There are people from other ethnicities that not even come out because it’s a taboo. That’s not right. And even in the African communities, there are lots of different communities. People are living with it without saying, they don’t say, because of religion or faith…When we say black African, within those groups, we know there are communities are hidden, there are groups that don’t come out, they might have access support within their own communities, but maybe not come out within the bigger group." },
+    { "id": "quote38", "group": 1, "type": "quote", "content": "Still lot of people, they don’t want to share their privacy. It’s their choice. They have a job, they don’t want to talk about it. They might or might not have a support group, because of culture, or faith, or language or other reasons. They don’t want to talk about it, they don’t want to face stigma." },
+    { "id": "quote39", "group": 4, "type": "quote", "content": "We need to educate everyone, there’s a lack of integration, how to we reach out to these people?" },
+    { "id": "quote40", "group": 2, "type": "quote", "content": "Some people think it’s a curse, it’s a sin, because of religion. My church, my community, my family, my son’s school. They stigmatised him too. I felt attacked. I only feel better when I come here." },
+    { "id": "quote41", "group": 2, "type": "quote", "content": "Don’t assume all healthcare professionals know about HIV, that they have a full awareness about HIV. Unless they are specialised, or worked specifically with people living with HIV. They might not be aware and have the right knowledge, they might not be yet educated….I know HIV, the virus is within me, the virus is my friend, so don’t tell everybody." },
+    { "id": "quote42", "group": 3, "type": "quote", "content": "I come from Germany, it was different there, I met people with HIV there hiding their life and being without a support group. I’m grateful for being here, and having found this support group. I’m very happy here." },
+    { "id": "quote43", "group": 2, "type": "quote", "content": "So I used to work in a hospice, where HIV people were put at the back, HIV people are the people who are served last. When I used to work there, I was telling my colleagues, you need knowledge. For some of them if you have HIV you just have to die." },
+    { "id": "quote44", "group": 1, "type": "quote", "content": "I stigmatise myself, in many cases, but I don’t think you have to tell always, you need to know why you are disclosing. It’s like you need to be empowered in order to disclose." },
+    { "id": "quote45", "group": 1, "type": "quote", "content": "I don’t want to share it on social media, I don’t have yet that confidence. I told my family and maybe a couple of friends. I can talk about it, but don’t want people to talk about me. I’m open, but I don’t want just people spread it. I think of my kids, it’s a way to protect them. When you disclose you need to think of the people behind you." }
+  ],
+  "links": [
+    { "source": "stigma", "target": "self-stigma", "value": 1 },
+    { "source": "stigma", "target": "public-stigma", "value": 1 },
+    { "source": "stigma", "target": "support", "value": 1 },
+    { "source": "stigma", "target": "education", "value": 1 },
+    { "source": "self-stigma", "target": "quote1", "value": 1 },
+    { "source": "public-stigma", "target": "quote2", "value": 1 },
+    { "source": "support", "target": "quote3", "value": 1 },
+    { "source": "public-stigma", "target": "quote4", "value": 1 },
+    { "source": "self-stigma", "target": "quote5", "value": 1 },
+    { "source": "support", "target": "quote6", "value": 1 },
+    { "source": "education", "target": "quote7", "value": 1 },
+    { "source": "self-stigma", "target": "quote8", "value": 1 },
+    { "source": "public-stigma", "target": "quote9", "value": 1 },
+    { "source": "support", "target": "quote10", "value": 1 },
+    { "source": "self-stigma", "target": "quote11", "value": 1 },
+    { "source": "education", "target": "quote12", "value": 1 },
+    { "source": "public-stigma", "target": "quote13", "value": 1 },
+    { "source": "support", "target": "quote14", "value": 1 },
+    { "source": "support", "target": "quote15", "value": 1 },
+    { "source": "public-stigma", "target": "quote16", "value": 1 },
+    { "source": "self-stigma", "target": "quote17", "value": 1 },
+    { "source": "public-stigma", "target": "quote18", "value": 1 },
+    { "source": "support", "target": "quote19", "value": 1 },
+    { "source": "self-stigma", "target": "quote20", "value": 1 },
+    { "source": "support", "target": "quote21", "value": 1 },
+    { "source": "public-stigma", "target": "quote22", "value": 1 },
+    { "source": "support", "target": "quote23", "value": 1 },
+    { "source": "public-stigma", "target": "quote24", "value": 1 },
+    { "source": "education", "target": "quote25", "value": 1 },
+    { "source": "public-stigma", "target": "quote26", "value": 1 },
+    { "source": "support", "target": "quote27", "value": 1 },
+    { "source": "self-stigma", "target": "quote28", "value": 1 },
+    { "source": "support", "target": "quote29", "value": 1 },
+    { "source": "public-stigma", "target": "quote30", "value": 1 },
+    { "source": "support", "target": "quote31", "value": 1 },
+    { "source": "self-stigma", "target": "quote32", "value": 1 },
+    { "source": "public-stigma", "target": "quote33", "value": 1 },
+    { "source": "support", "target": "quote34", "value": 1 },
+    { "source": "public-stigma", "target": "quote35", "value": 1 },
+    { "source": "support", "target": "quote36", "value": 1 },
+    { "source": "education", "target": "quote37", "value": 1 },
+    { "source": "self-stigma", "target": "quote38", "value": 1 },
+    { "source": "education", "target": "quote39", "value": 1 },
+    { "source": "public-stigma", "target": "quote40", "value": 1 },
+    { "source": "public-stigma", "target": "quote41", "value": 1 },
+    { "source": "support", "target": "quote42", "value": 1 },
+    { "source": "public-stigma", "target": "quote43", "value": 1 },
+    { "source": "self-stigma", "target": "quote44", "value": 1 },
+    { "source": "self-stigma", "target": "quote45", "value": 1 }
+  ]
+}

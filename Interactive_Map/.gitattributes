@@ -1,0 +1,66 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Handle binary files to prevent Git from attempting to merge them
+# Images
+*.jpg binary
+*.jpeg binary
+*.png binary
+*.gif binary
+*.bmp binary
+*.tiff binary
+*.ico binary
+*.psd binary
+
+# Vector Graphics
+*.svg binary
+
+# Audio files
+*.mp3 binary
+*.wav binary
+*.ogg binary
+*.flac binary
+*.m4a binary
+
+# Video files
+*.mp4 binary
+*.avi binary
+*.mov binary
+*.wmv binary
+*.mkv binary
+
+# Fonts
+*.ttf binary
+*.otf binary
+*.woff binary
+*.woff2 binary
+
+# Archives
+*.zip binary
+*.tar binary
+*.gz binary
+*.rar binary
+*.7z binary
+
+# PDFs
+*.pdf binary
+
+# Microsoft Office files
+*.doc binary
+*.docx binary
+*.xls binary
+*.xlsx binary
+*.ppt binary
+*.pptx binary
+
+# Adobe files
+*.ai binary
+*.psd binary
+*.indd binary
+
+# Ensure JSON and XML files are treated as text
+*.json text
+*.xml text
+
+# Ensure markdown files are treated as text
+*.md text

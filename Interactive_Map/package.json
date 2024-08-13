@@ -1,0 +1,14 @@
+{
+  "name": "red-ribbon-living-well-project",
+  "version": "1.0.0",
+  "description": "Final Project in Creative Coding 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rita": "^3.1.1"
+  }
+}

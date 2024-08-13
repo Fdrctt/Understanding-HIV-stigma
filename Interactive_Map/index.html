@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Interactive Map</title>
+    <link rel="stylesheet" href="map_styles.css">
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Lora:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="centered-wrapper">
+        <h1>Landscape of Stigma</h1>
+        <p>This interactive map visualises the experience of living with HIV stigma through a metaphorical landscape. Co-designed with the <a href="https://www.redribbonlivingwell.org" target="_blank">Red Ribbon Living Well</a> peer support group, it links to various audios that explore different aspects of stigma. Click on the map elements to listen to their stories and better understand the impact of stigma on personal lives.</p>
+        <div id="map-container">
+            <svg id="interactive-map" role="img" aria-labelledby="mapTitle">
+                <title id="mapTitle">Interactive Map</title>
+            </svg>
+        </div>
+        <p>Click <a href="../home.html">here</a> to go back to home</p>
+    </div>
+    <div id="popup" class="popup hidden">
+        <div id="popup-content"></div>
+        <button id="close-popup">Close</button>
+    </div>
+    <script src="map_script.js"></script>
+</body>
+</html>
