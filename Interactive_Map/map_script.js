@@ -62,7 +62,7 @@ fetch('data.json')
                         const audioElement = document.createElement("div");
                         audioElement.className = "audio-button";
                         audioElement.innerHTML = `
-                            <audio controls src="assets/audios/${audioData.file} type="audio/mpeg"></audio>`;
+                            <audio controls src="assets/audios/${audioData.file}></audio>`;
                         popupContent.appendChild(audioElement);
                     }
                 });
