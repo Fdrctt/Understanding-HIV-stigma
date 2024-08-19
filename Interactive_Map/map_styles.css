@@ -31,8 +31,8 @@ audio {
 }
 
 a {
-    display: inline-block;
-    margin-top: 0px;
+    /* display: inline-block;
+    margin-top: 0px; */
     text-decoration: none; 
     color: #c6626c;
     transition: color 0.2s;
