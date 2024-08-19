@@ -102,6 +102,10 @@ a:hover {
     align-items: center;
 }
 
+.popup div {
+    width: 98%;
+}
+
 .hidden {
     display: none;
 }
