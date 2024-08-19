@@ -156,7 +156,7 @@ d3.json("data.json").then(data => {
 
     function showLegendDetails(groupIndex, groupLabel) {
         const themeTexts = {
-            "self-stigma": "<h3>Self-Stigma</h3><p>Self-stigma occurs when individuals internalize negative stereotypes and attitudes about their condition, leading to feelings of shame and decreased self-esteem.</p>",
+            "self-stigma": "<h3>Self-Stigma</h3><p>Self-stigma occurs when individuals internalise negative stereotypes and attitudes about their condition, leading to feelings of shame and decreased self-esteem.</p>",
             "public-stigma": "<h3>Public Stigma</h3><p>Public stigma refers to the negative attitudes and beliefs held by the general population towards individuals with a particular condition, leading to discrimination and social exclusion.</p>",
             "support": "<h3>Support</h3><p>Support involves providing emotional, social, and practical assistance to individuals, helping them cope with their circumstances.</p>",
             "education": "<h3>Education</h3><p>Education is a critical tool in combating stigma, raising awareness and understanding to challenge stereotypes and promote inclusion.</p>"
