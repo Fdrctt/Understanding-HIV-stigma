@@ -1,9 +1,14 @@
-
-
-# Final Project Workshop Creative Coding 2
+# Understanding HIV Stigma with peer support group Red Ribbon Living Well
  
-Inspired by Week 1, I used the Hypertext Concrete Poem template as a starter 
-and then worked on two separate prototypes, integrated in the hypertext as links.
+Final Project in Creative Coding 2
+
+Interactive Map prototype
+
+Key words: #smalldata #qualitativedata #collaborativeartpractice #datavisualisation #interactivenarrative
+
+
+
+
 
 
 
